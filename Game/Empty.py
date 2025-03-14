@@ -1,2 +1,2 @@
 import random
-print("Tuer amélie")
+print("Tuer Arnaud")

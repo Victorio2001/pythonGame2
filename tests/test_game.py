@@ -5,7 +5,7 @@ def test_one():
                             "garcia",
                             100, "noire",
                             ["sword", "axe", "bow", "arrow", "augustine"])
-    personnage2 = Personnage("victorio2",
+    personnage2 = Personnage("victorio",
                              "garcia",
                              100, "noire",
                              ["sword", "axe", "bow", "arrow", "augustine"])
